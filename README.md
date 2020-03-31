@@ -8,5 +8,7 @@ valor para tratar algum caso específio.
 
 
 Front-end desenvolvido com React
+
 Back-end desenvolvido com Node.js
+
 Mobile desenvolvido usando React Native e Expo
